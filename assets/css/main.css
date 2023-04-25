@@ -2261,7 +2261,7 @@ input, select, textarea {
 		text-align: center;
 	}
 
-       .box.page-content section label { display: inline-block;
+       .box.page-content section > label { display: inline-block;
 		text-align: left;
 	
 
