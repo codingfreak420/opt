@@ -2192,9 +2192,7 @@ input, select, textarea {
 			}
 
 /* Box */
-         		input[type="radio"]{
-   			 -webkit-appearance: radio;
-			}
+         		
 	.box.highlight {
 		text-align: center;
 	}
