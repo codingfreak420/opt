@@ -2476,7 +2476,7 @@ input, select, textarea {
 
 /* Banner */
 
-	
+			.logo {object-fit: cover;}
 
 		
 /* Main */
