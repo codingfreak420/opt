@@ -2259,10 +2259,7 @@ input, select, textarea {
 
         .box.page-content section { display: block;
 		text-align: center;
-	}
-
-       .box.page-content section > label { display: inline-block;
-		text-align: left;
+        }
 	
 
 /* Icons */
