@@ -1856,6 +1856,11 @@ input, select, textarea {
 		.button.large {
 			font-size: 1.65em;
 		}
+input[type="radio"],
+input[type="checkbox"] {
+  margin: 4px 0 0;
+  margin-top: 1px \9;
+  line-height: normal; }
 
 /* List */
 
@@ -2261,11 +2266,7 @@ input, select, textarea {
 		text-align: center;
         }
 	
-input[type="radio"],
-input[type="checkbox"] {
-  margin: 4px 0 0;
-  margin-top: 1px \9;
-  line-height: normal; }
+
 
 /* Icons */
 
