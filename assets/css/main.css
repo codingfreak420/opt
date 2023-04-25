@@ -1786,7 +1786,7 @@ input, select, textarea {
 	input[type="reset"],
 	button,
 	.button {
-		-webkit-appearance: none;
+		
 		display: inline-block;
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
@@ -2106,7 +2106,7 @@ input, select, textarea {
 	form input[type="password"],
 	form select,
 	form textarea {
-		-webkit-appearance: none;
+		
 		display: block;
 		width: 100%;
 		border-radius: 8px;
