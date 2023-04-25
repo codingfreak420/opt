@@ -2257,8 +2257,12 @@ input, select, textarea {
 		margin: 0 0 0.5em 0;
 	}
 
-        .box.page-content section {
-		text-align: left;
+        .box.page-content section { width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+		text-align: center;
 	}
 
 /* Icons */
