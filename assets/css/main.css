@@ -2476,7 +2476,7 @@ input, select, textarea {
 
 /* Banner */
 
-			.content img {object-fit: fill;}
+			.content img {height:100%; width: 100%; object-fit: fill;}
 
 		
 /* Main */
