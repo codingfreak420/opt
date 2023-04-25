@@ -2480,7 +2480,7 @@ input, select, textarea {
 		position: relative;
 		background-image: url("../../images/banner.jpg");
 		background-position: top left, top left, center center;
-		background-repeat: repeat, repeat, no-repeat;
+		background-repeat: no-repeat;
 		background-size: contain;
 		z-index: 1;
 		padding: 11em 0;
