@@ -2261,7 +2261,7 @@ input, select, textarea {
 		text-align: center;
 	}
 
-       .box.page-content section > label { display: block;
+       #appwrap { display: block;
 		text-align: center;
 	}
 
