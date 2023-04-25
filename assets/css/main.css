@@ -2476,15 +2476,7 @@ input, select, textarea {
 
 /* Banner */
 
-	#banner {
-		position: relative;
-		background-image: url("../../images/banner.jpg");
-		background-position: center center;
-		background-repeat: no-repeat;
-		background-size: fill;
-		z-index: 1;
-		padding: 11em 0;
-	}
+	
 
 		
 /* Main */
